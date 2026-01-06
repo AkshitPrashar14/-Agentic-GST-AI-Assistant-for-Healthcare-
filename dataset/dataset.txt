@@ -1,0 +1,1602 @@
+[
+  {s
+    "id": "q_0201",
+    "question": "Is GST applicable on chemotherapy services provided to cancer patients?",
+    "answer": "No. Chemotherapy provided by a clinical establishment as part of cancer treatment is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0202",
+    "question": "Is GST applicable on radiation therapy for cancer treatment?",
+    "answer": "No. Radiation therapy for cancer treatment qualifies as healthcare service and is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0203",
+    "question": "Is GST applicable on cancer screening tests such as PET scans?",
+    "answer": "No. Cancer screening tests such as PET scans provided for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0204",
+    "question": "Is GST applicable on biopsy procedures for tumor diagnosis?",
+    "answer": "No. Biopsy procedures performed for medical diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0205",
+    "question": "Is GST applicable on surgical removal of malignant tumors?",
+    "answer": "No. Surgical removal of malignant tumors is a healthcare service and exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0206",
+    "question": "Is GST applicable on palliative care services for terminal cancer patients?",
+    "answer": "No. Palliative care services for terminal cancer patients are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0207",
+    "question": "Is GST applicable on immunotherapy treatment for cancer?",
+    "answer": "No. Immunotherapy administered as part of cancer treatment is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0208",
+    "question": "Is GST applicable on cancer rehabilitation services post surgery?",
+    "answer": "No. Cancer rehabilitation services linked to treatment are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0209",
+    "question": "Is GST applicable on prosthetics used after cancer-related amputations?",
+    "answer": "Yes. Prosthetics supplied separately are taxable as goods under GST.",
+    "gst_rate": "5%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0210",
+    "question": "Is GST applicable on cancer-related genetic testing services?",
+    "answer": "No. Genetic testing conducted for cancer diagnosis qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0211",
+    "question": "Is GST applicable on insulin injections supplied to diabetic patients?",
+    "answer": "Yes. Insulin injections supplied as goods attract GST.",
+    "gst_rate": "5% or NIL (notified lifesaving drugs)",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0212",
+    "question": "Is GST applicable on continuous glucose monitoring services?",
+    "answer": "Yes. Continuous glucose monitoring devices and services are taxable.",
+    "gst_rate": "5% or 18%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0213",
+    "question": "Is GST applicable on diabetes management programs offered by hospitals?",
+    "answer": "No. Diabetes management programs provided by hospitals as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0214",
+    "question": "Is GST applicable on diabetic foot care treatment services?",
+    "answer": "No. Diabetic foot care treatment provided by hospitals is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0215",
+    "question": "Is GST applicable on dialysis services for diabetic kidney disease?",
+    "answer": "No. Dialysis services are exempt as healthcare services.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0216",
+    "question": "Is GST applicable on nutrition counselling for diabetes control?",
+    "answer": "Depends. Nutrition counselling as part of medical treatment is exempt; otherwise taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0217",
+    "question": "Is GST applicable on insulin pumps sold to diabetic patients?",
+    "answer": "Yes. Insulin pumps supplied as medical devices attract GST.",
+    "gst_rate": "5%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0218",
+    "question": "Is GST applicable on diabetic retinopathy screening services?",
+    "answer": "No. Diabetic retinopathy screening for diagnosis is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0219",
+    "question": "Is GST applicable on HbA1c blood tests?",
+    "answer": "No. HbA1c blood tests conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0220",
+    "question": "Is GST applicable on diabetes-related hospital admissions?",
+    "answer": "No. Hospital admission for diabetes treatment is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0221",
+    "question": "Is GST applicable on COVID-19 diagnostic RT-PCR testing?",
+    "answer": "No. COVID-19 RT-PCR diagnostic testing qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0222",
+    "question": "Is GST applicable on COVID-19 vaccination services?",
+    "answer": "No. COVID-19 vaccination services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0223",
+    "question": "Is GST applicable on hospitalisation of COVID-19 patients?",
+    "answer": "No. Hospitalisation of COVID-19 patients is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0224",
+    "question": "Is GST applicable on oxygen therapy provided to COVID patients?",
+    "answer": "No. Oxygen therapy provided as part of treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0225",
+    "question": "Is GST applicable on post-COVID rehabilitation services?",
+    "answer": "No. Post-COVID rehabilitation linked to medical recovery is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0226",
+    "question": "Is GST applicable on home isolation monitoring services for COVID patients?",
+    "answer": "Depends. Home monitoring as medical care is exempt; platform services may be taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0227",
+    "question": "Is GST applicable on COVID emergency ambulance services?",
+    "answer": "No. Emergency ambulance services for COVID patients are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0228",
+    "question": "Is GST applicable on ICU services for COVID treatment?",
+    "answer": "No. ICU services provided for COVID treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0229",
+    "question": "Is GST applicable on antiviral drugs used for COVID treatment?",
+    "answer": "Yes. Antiviral drugs supplied as goods attract GST unless specifically exempted.",
+    "gst_rate": "5% or NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0230",
+    "question": "Is GST applicable on COVID immunity testing services?",
+    "answer": "No. COVID immunity testing for medical diagnosis is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0231",
+    "question": "Is GST applicable on HIV diagnostic testing services?",
+    "answer": "No. HIV diagnostic testing services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0232",
+    "question": "Is GST applicable on antiretroviral therapy (ART) for HIV patients?",
+    "answer": "No. Antiretroviral therapy provided as treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0233",
+    "question": "Is GST applicable on counselling services for HIV patients?",
+    "answer": "No. Counselling services provided as part of HIV treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0234",
+    "question": "Is GST applicable on HIV viral load testing?",
+    "answer": "No. HIV viral load testing conducted for treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0235",
+    "question": "Is GST applicable on hospitalisation for AIDS-related illnesses?",
+    "answer": "No. Hospitalisation for AIDS-related illnesses is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0236",
+    "question": "Is GST applicable on HIV preventive treatment services?",
+    "answer": "No. HIV preventive treatment provided by hospitals is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0237",
+    "question": "Is GST applicable on NGO-run HIV treatment centres?",
+    "answer": "No. NGO-run HIV treatment centres providing healthcare are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0238",
+    "question": "Is GST applicable on HIV home-care nursing services?",
+    "answer": "No. Home-care nursing services for HIV patients are exempt if medically prescribed.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0239",
+    "question": "Is GST applicable on HIV awareness medical camps?",
+    "answer": "No. HIV awareness medical camps providing diagnosis or care are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0240",
+    "question": "Is GST applicable on medical certificates issued for HIV patients?",
+    "answer": "Yes. Medical certificates issued separately are considered taxable services.",
+    "gst_rate": "18%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0241",
+    "question": "Is GST applicable on tuberculosis (TB) diagnostic tests?",
+    "answer": "No. Tuberculosis diagnostic tests are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0242",
+    "question": "Is GST applicable on DOTS treatment services for TB patients?",
+    "answer": "No. DOTS treatment services for TB patients are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0243",
+    "question": "Is GST applicable on hospitalisation for tuberculosis treatment?",
+    "answer": "No. Hospitalisation for TB treatment qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0244",
+    "question": "Is GST applicable on TB-related X-ray and CT scan services?",
+    "answer": "No. TB-related X-ray and CT scan services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0245",
+    "question": "Is GST applicable on TB medication supplied under government programs?",
+    "answer": "No. TB medication supplied under government health programs is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0246",
+    "question": "Is GST applicable on post-TB lung rehabilitation services?",
+    "answer": "No. Post-TB lung rehabilitation linked to treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0247",
+    "question": "Is GST applicable on home-based TB treatment monitoring?",
+    "answer": "No. Home-based TB treatment monitoring under medical supervision is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0248",
+    "question": "Is GST applicable on TB screening camps in rural areas?",
+    "answer": "No. TB screening camps conducted for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0249",
+    "question": "Is GST applicable on nutritional support services for TB patients?",
+    "answer": "No. Nutritional support provided as part of TB treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0250",
+    "question": "Is GST applicable on TB patient counselling services?",
+    "answer": "No. TB patient counselling as part of treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0251",
+    "question": "Is GST applicable on asthma diagnostic tests such as spirometry?",
+    "answer": "No. Asthma diagnostic tests such as spirometry conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0252",
+    "question": "Is GST applicable on nebulization services for asthma patients?",
+    "answer": "No. Nebulization services provided as part of asthma treatment are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0253",
+    "question": "Is GST applicable on long-term asthma management programs?",
+    "answer": "No. Long-term asthma management programs provided by hospitals as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0254",
+    "question": "Is GST applicable on emergency treatment for acute asthma attacks?",
+    "answer": "No. Emergency treatment for acute asthma attacks is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0255",
+    "question": "Is GST applicable on inhalers supplied during hospital treatment for asthma?",
+    "answer": "Yes. Inhalers supplied as medicines attract GST when supplied separately.",
+    "gst_rate": "5%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0256",
+    "question": "Is GST applicable on pulmonary rehabilitation services for asthma patients?",
+    "answer": "No. Pulmonary rehabilitation services prescribed as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0257",
+    "question": "Is GST applicable on allergy testing linked to asthma diagnosis?",
+    "answer": "No. Allergy testing conducted to diagnose asthma is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0258",
+    "question": "Is GST applicable on home oxygen support for chronic asthma patients?",
+    "answer": "Depends. Oxygen supplied as part of treatment is exempt; oxygen supplied as goods is taxable.",
+    "gst_rate": "NIL or 5%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0259",
+    "question": "Is GST applicable on asthma-related medical certificates for employment?",
+    "answer": "Yes. Medical certificates issued for employment purposes are taxable.",
+    "gst_rate": "18%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0260",
+    "question": "Is GST applicable on teleconsultation services for asthma follow-ups?",
+    "answer": "No. Teleconsultation services for asthma follow-up involving medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0261",
+    "question": "Is GST applicable on leukemia diagnostic blood tests?",
+    "answer": "No. Diagnostic blood tests for leukemia are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0262",
+    "question": "Is GST applicable on bone marrow biopsy for leukemia diagnosis?",
+    "answer": "No. Bone marrow biopsy conducted for leukemia diagnosis is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0263",
+    "question": "Is GST applicable on chemotherapy for leukemia treatment?",
+    "answer": "No. Chemotherapy for leukemia treatment qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0264",
+    "question": "Is GST applicable on bone marrow transplant services?",
+    "answer": "No. Bone marrow transplant services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0265",
+    "question": "Is GST applicable on post-transplant isolation care services?",
+    "answer": "No. Post-transplant isolation care provided as part of treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0266",
+    "question": "Is GST applicable on blood transfusion services for leukemia patients?",
+    "answer": "No. Blood transfusion services provided during treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0267",
+    "question": "Is GST applicable on leukemia relapse monitoring services?",
+    "answer": "No. Leukemia relapse monitoring services linked to treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0268",
+    "question": "Is GST applicable on palliative care for advanced leukemia patients?",
+    "answer": "No. Palliative care services for advanced leukemia patients are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0269",
+    "question": "Is GST applicable on genetic testing for blood cancer diagnosis?",
+    "answer": "No. Genetic testing for blood cancer diagnosis is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0270",
+    "question": "Is GST applicable on rehabilitation services after leukemia treatment?",
+    "answer": "No. Rehabilitation services after leukemia treatment are exempt when medically prescribed.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0271",
+    "question": "Is GST applicable on skin cancer screening services?",
+    "answer": "No. Skin cancer screening services conducted for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0272",
+    "question": "Is GST applicable on biopsy procedures for suspected skin tumors?",
+    "answer": "No. Biopsy procedures for suspected skin tumors are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0273",
+    "question": "Is GST applicable on surgical excision of skin cancer lesions?",
+    "answer": "No. Surgical excision of skin cancer lesions is exempt as healthcare service.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0274",
+    "question": "Is GST applicable on reconstructive surgery after skin cancer removal?",
+    "answer": "Depends. Reconstructive surgery for medical restoration is exempt; cosmetic reconstruction is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0275",
+    "question": "Is GST applicable on dermatology consultations for cancer diagnosis?",
+    "answer": "No. Dermatology consultations for cancer diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0276",
+    "question": "Is GST applicable on skin cancer follow-up monitoring services?",
+    "answer": "No. Skin cancer follow-up monitoring linked to treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0277",
+    "question": "Is GST applicable on phototherapy used in skin cancer treatment?",
+    "answer": "No. Phototherapy used as part of skin cancer treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0278",
+    "question": "Is GST applicable on cosmetic reconstruction after skin cancer surgery?",
+    "answer": "Yes. Cosmetic reconstruction performed for aesthetic purposes is taxable.",
+    "gst_rate": "18%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0279",
+    "question": "Is GST applicable on pathology services for skin tumor analysis?",
+    "answer": "No. Pathology services for skin tumor analysis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0280",
+    "question": "Is GST applicable on teledermatology services for skin cancer review?",
+    "answer": "No. Teledermatology services for skin cancer review involving treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0281",
+    "question": "Is GST applicable on cardiac diagnostic tests such as ECG and echocardiography?",
+    "answer": "No. Cardiac diagnostic tests such as ECG and echocardiography are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0282",
+    "question": "Is GST applicable on angiography procedures?",
+    "answer": "No. Angiography procedures performed for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0283",
+    "question": "Is GST applicable on bypass surgery for heart disease?",
+    "answer": "No. Bypass surgery for heart disease is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0284",
+    "question": "Is GST applicable on heart valve replacement surgery?",
+    "answer": "No. Heart valve replacement surgery is exempt as healthcare service.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0285",
+    "question": "Is GST applicable on post-cardiac surgery rehabilitation services?",
+    "answer": "No. Post-cardiac surgery rehabilitation prescribed as treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0286",
+    "question": "Is GST applicable on pacemaker implantation services?",
+    "answer": "No. Pacemaker implantation services are exempt; the device itself is taxable.",
+    "gst_rate": "NIL (service) / 5% (device)",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0287",
+    "question": "Is GST applicable on long-term cardiac monitoring services?",
+    "answer": "No. Long-term cardiac monitoring services under medical supervision are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0288",
+    "question": "Is GST applicable on cardiac emergency ambulance services?",
+    "answer": "No. Cardiac emergency ambulance services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0289",
+    "question": "Is GST applicable on lifestyle counselling after heart surgery?",
+    "answer": "Depends. Lifestyle counselling as part of medical recovery is exempt; wellness counselling is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0290",
+    "question": "Is GST applicable on cardiac fitness certification services?",
+    "answer": "Yes. Cardiac fitness certification services are taxable.",
+    "gst_rate": "18%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0291",
+    "question": "Is GST applicable on kidney function diagnostic tests?",
+    "answer": "No. Kidney function diagnostic tests conducted for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0292",
+    "question": "Is GST applicable on dialysis services for chronic kidney disease?",
+    "answer": "No. Dialysis services for chronic kidney disease are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0293",
+    "question": "Is GST applicable on kidney transplant surgery services?",
+    "answer": "No. Kidney transplant surgery services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0294",
+    "question": "Is GST applicable on post-transplant immunosuppression monitoring?",
+    "answer": "No. Post-transplant immunosuppression monitoring as part of treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0295",
+    "question": "Is GST applicable on renal diet counselling services?",
+    "answer": "Depends. Renal diet counselling linked to treatment is exempt; otherwise taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0296",
+    "question": "Is GST applicable on home dialysis support services?",
+    "answer": "No. Home dialysis support services provided under medical supervision are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0297",
+    "question": "Is GST applicable on emergency treatment for kidney failure?",
+    "answer": "No. Emergency treatment for kidney failure is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0298",
+    "question": "Is GST applicable on kidney donor medical evaluation services?",
+    "answer": "No. Kidney donor medical evaluation conducted for transplantation is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0299",
+    "question": "Is GST applicable on long-term follow-up services after kidney transplant?",
+    "answer": "No. Long-term follow-up services after kidney transplant are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0300",
+    "question": "Is GST applicable on palliative renal care services?",
+    "answer": "No. Palliative renal care services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0301",
+    "question": "Is GST applicable on neurological diagnostic tests such as EEG?",
+    "answer": "No. Neurological diagnostic tests such as EEG conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0302",
+    "question": "Is GST applicable on MRI scans of the brain for neurological disorders?",
+    "answer": "No. MRI scans of the brain for neurological disorders are exempt as healthcare services.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0303",
+    "question": "Is GST applicable on treatment for epilepsy?",
+    "answer": "No. Treatment for epilepsy provided by a clinical establishment is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0304",
+    "question": "Is GST applicable on long-term epilepsy management programs?",
+    "answer": "No. Long-term epilepsy management programs provided as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0305",
+    "question": "Is GST applicable on emergency treatment for epileptic seizures?",
+    "answer": "No. Emergency treatment for epileptic seizures is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0306",
+    "question": "Is GST applicable on neurosurgery for brain tumors?",
+    "answer": "No. Neurosurgery for brain tumors qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0307",
+    "question": "Is GST applicable on rehabilitation services after brain surgery?",
+    "answer": "No. Rehabilitation services after brain surgery are exempt when medically prescribed.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0308",
+    "question": "Is GST applicable on stroke treatment services?",
+    "answer": "No. Stroke treatment services provided by hospitals are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0309",
+    "question": "Is GST applicable on post-stroke physiotherapy and rehabilitation?",
+    "answer": "No. Post-stroke physiotherapy and rehabilitation linked to treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0310",
+    "question": "Is GST applicable on neurological home-care nursing services?",
+    "answer": "No. Neurological home-care nursing services provided under medical supervision are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0311",
+    "question": "Is GST applicable on liver function diagnostic tests?",
+    "answer": "No. Liver function diagnostic tests conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0312",
+    "question": "Is GST applicable on treatment for hepatitis?",
+    "answer": "No. Treatment for hepatitis provided by hospitals is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0313",
+    "question": "Is GST applicable on hospitalisation for liver cirrhosis?",
+    "answer": "No. Hospitalisation for liver cirrhosis qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0314",
+    "question": "Is GST applicable on liver transplant surgery services?",
+    "answer": "No. Liver transplant surgery services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0315",
+    "question": "Is GST applicable on post-liver transplant monitoring services?",
+    "answer": "No. Post-liver transplant monitoring services provided as treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0316",
+    "question": "Is GST applicable on antiviral therapy for liver diseases?",
+    "answer": "No. Antiviral therapy for liver diseases provided as treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0317",
+    "question": "Is GST applicable on alcohol-related liver disease treatment?",
+    "answer": "No. Alcohol-related liver disease treatment provided by hospitals is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0318",
+    "question": "Is GST applicable on liver cancer treatment services?",
+    "answer": "No. Liver cancer treatment services qualify as healthcare services and are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0319",
+    "question": "Is GST applicable on nutritional counselling for liver patients?",
+    "answer": "Depends. Nutritional counselling linked to liver treatment is exempt; standalone counselling is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0320",
+    "question": "Is GST applicable on palliative care for end-stage liver disease?",
+    "answer": "No. Palliative care for end-stage liver disease is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0321",
+    "question": "Is GST applicable on psychiatric consultations for mental illness?",
+    "answer": "No. Psychiatric consultations for diagnosed mental illness are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0322",
+    "question": "Is GST applicable on clinical depression treatment services?",
+    "answer": "No. Clinical depression treatment services provided by hospitals are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0323",
+    "question": "Is GST applicable on hospitalisation for severe mental health disorders?",
+    "answer": "No. Hospitalisation for severe mental health disorders is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0324",
+    "question": "Is GST applicable on psychotherapy sessions for diagnosed mental illness?",
+    "answer": "No. Psychotherapy sessions for diagnosed mental illness are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0325",
+    "question": "Is GST applicable on psychiatric medication management services?",
+    "answer": "No. Psychiatric medication management services are exempt when part of treatment.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0326",
+    "question": "Is GST applicable on inpatient mental health rehabilitation programs?",
+    "answer": "No. Inpatient mental health rehabilitation programs are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0327",
+    "question": "Is GST applicable on emergency psychiatric intervention services?",
+    "answer": "No. Emergency psychiatric intervention services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0328",
+    "question": "Is GST applicable on counselling services for anxiety disorders?",
+    "answer": "No. Counselling services for anxiety disorders provided as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0329",
+    "question": "Is GST applicable on long-term mental health follow-up services?",
+    "answer": "No. Long-term mental health follow-up services linked to treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0330",
+    "question": "Is GST applicable on psychiatric home-care services?",
+    "answer": "No. Psychiatric home-care services provided under medical supervision are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0331",
+    "question": "Is GST applicable on gynecological consultations for medical treatment?",
+    "answer": "No. Gynecological consultations for medical treatment are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0332",
+    "question": "Is GST applicable on treatment for polycystic ovary syndrome (PCOS)?",
+    "answer": "No. Treatment for polycystic ovary syndrome (PCOS) is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0333",
+    "question": "Is GST applicable on antenatal care services during pregnancy?",
+    "answer": "No. Antenatal care services during pregnancy are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0334",
+    "question": "Is GST applicable on delivery and childbirth services?",
+    "answer": "No. Delivery and childbirth services provided by hospitals are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0335",
+    "question": "Is GST applicable on postnatal care services for mothers?",
+    "answer": "No. Postnatal care services for mothers are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0336",
+    "question": "Is GST applicable on treatment for gynecological cancers?",
+    "answer": "No. Treatment for gynecological cancers qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0337",
+    "question": "Is GST applicable on fertility treatment services excluding IVF?",
+    "answer": "No. Fertility treatment services excluding IVF are exempt when provided for medical reasons.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0338",
+    "question": "Is GST applicable on high-risk pregnancy monitoring services?",
+    "answer": "No. High-risk pregnancy monitoring services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0339",
+    "question": "Is GST applicable on emergency obstetric care services?",
+    "answer": "No. Emergency obstetric care services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0340",
+    "question": "Is GST applicable on reproductive health counselling services?",
+    "answer": "Depends. Reproductive health counselling as medical care is exempt; wellness counselling is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0341",
+    "question": "Is GST applicable on pediatric diagnostic services for childhood diseases?",
+    "answer": "No. Pediatric diagnostic services for childhood diseases are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0342",
+    "question": "Is GST applicable on neonatal intensive care unit (NICU) services?",
+    "answer": "No. Neonatal intensive care unit (NICU) services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0343",
+    "question": "Is GST applicable on vaccination services for children?",
+    "answer": "No. Vaccination services for children are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0344",
+    "question": "Is GST applicable on treatment of congenital disorders in children?",
+    "answer": "No. Treatment of congenital disorders in children is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0345",
+    "question": "Is GST applicable on pediatric surgery services?",
+    "answer": "No. Pediatric surgery services qualify as healthcare services and are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0346",
+    "question": "Is GST applicable on long-term pediatric rehabilitation services?",
+    "answer": "No. Long-term pediatric rehabilitation services prescribed as treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0347",
+    "question": "Is GST applicable on pediatric home-care nursing services?",
+    "answer": "No. Pediatric home-care nursing services under medical supervision are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0348",
+    "question": "Is GST applicable on developmental therapy services for children?",
+    "answer": "No. Developmental therapy services for children provided as medical care are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0349",
+    "question": "Is GST applicable on pediatric counselling services for chronic illness?",
+    "answer": "No. Pediatric counselling services for chronic illness are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0350",
+    "question": "Is GST applicable on emergency pediatric care services?",
+    "answer": "No. Emergency pediatric care services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0351",
+    "question": "Is GST applicable on orthopaedic diagnostic tests such as X-rays and MRIs?",
+    "answer": "No. Orthopaedic diagnostic tests such as X-rays and MRIs conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0352",
+    "question": "Is GST applicable on fracture treatment services?",
+    "answer": "No. Fracture treatment services provided by hospitals are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0353",
+    "question": "Is GST applicable on joint replacement surgery?",
+    "answer": "No. Joint replacement surgery qualifies as healthcare service and is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0354",
+    "question": "Is GST applicable on spine surgery services?",
+    "answer": "No. Spine surgery services provided for medical treatment are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0355",
+    "question": "Is GST applicable on physiotherapy after orthopaedic surgery?",
+    "answer": "No. Physiotherapy after orthopaedic surgery is exempt when medically prescribed.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0356",
+    "question": "Is GST applicable on treatment for arthritis?",
+    "answer": "No. Treatment for arthritis provided by clinical establishments is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0357",
+    "question": "Is GST applicable on orthopaedic rehabilitation programs?",
+    "answer": "No. Orthopaedic rehabilitation programs linked to medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0358",
+    "question": "Is GST applicable on emergency trauma care for bone injuries?",
+    "answer": "No. Emergency trauma care for bone injuries is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0359",
+    "question": "Is GST applicable on orthopaedic braces supplied during treatment?",
+    "answer": "Yes. Orthopaedic braces supplied as goods are taxable under GST.",
+    "gst_rate": "5%",
+    "gst_applicable": true,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0360",
+    "question": "Is GST applicable on post-spine surgery follow-up services?",
+    "answer": "No. Post-spine surgery follow-up services provided as medical care are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0361",
+    "question": "Is GST applicable on eye diagnostic services such as eye tests?",
+    "answer": "No. Eye diagnostic services such as eye tests conducted for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0362",
+    "question": "Is GST applicable on cataract surgery services?",
+    "answer": "No. Cataract surgery services provided by hospitals are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0363",
+    "question": "Is GST applicable on LASIK eye surgery?",
+    "answer": "Depends. LASIK surgery for medical correction is exempt; cosmetic vision correction is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0364",
+    "question": "Is GST applicable on glaucoma treatment services?",
+    "answer": "No. Glaucoma treatment services qualify as healthcare services and are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0365",
+    "question": "Is GST applicable on retinal disorder treatment services?",
+    "answer": "No. Retinal disorder treatment services provided for medical reasons are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0366",
+    "question": "Is GST applicable on post-eye surgery follow-up consultations?",
+    "answer": "No. Post-eye surgery follow-up consultations linked to treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0367",
+    "question": "Is GST applicable on pediatric ophthalmology services?",
+    "answer": "No. Pediatric ophthalmology services provided for medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0368",
+    "question": "Is GST applicable on vision correction therapy services?",
+    "answer": "Depends. Vision correction therapy for medical reasons is exempt; wellness therapy is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0369",
+    "question": "Is GST applicable on eye emergency treatment services?",
+    "answer": "No. Eye emergency treatment services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0370",
+    "question": "Is GST applicable on tele-ophthalmology consultation services?",
+    "answer": "No. Tele-ophthalmology consultation involving medical treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0371",
+    "question": "Is GST applicable on ENT diagnostic services?",
+    "answer": "No. ENT diagnostic services conducted for diagnosis are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0372",
+    "question": "Is GST applicable on treatment for hearing loss?",
+    "answer": "No. Treatment for hearing loss provided as medical care is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0373",
+    "question": "Is GST applicable on cochlear implant surgery services?",
+    "answer": "No. Cochlear implant surgery services are exempt; the implant device is taxable.",
+    "gst_rate": "NIL (service) / 5% (device)",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0374",
+    "question": "Is GST applicable on sinus surgery services?",
+    "answer": "No. Sinus surgery services provided for medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0375",
+    "question": "Is GST applicable on treatment for throat infections?",
+    "answer": "No. Treatment for throat infections provided by hospitals is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0376",
+    "question": "Is GST applicable on speech therapy services for ENT disorders?",
+    "answer": "No. Speech therapy services prescribed for ENT disorders are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0377",
+    "question": "Is GST applicable on ENT emergency services?",
+    "answer": "No. ENT emergency services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0378",
+    "question": "Is GST applicable on pediatric ENT treatment services?",
+    "answer": "No. Pediatric ENT treatment services are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0379",
+    "question": "Is GST applicable on post-ENT surgery rehabilitation services?",
+    "answer": "No. Post-ENT surgery rehabilitation services linked to treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0380",
+    "question": "Is GST applicable on tele-ENT consultation services?",
+    "answer": "No. Tele-ENT consultation services involving medical care are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0381",
+    "question": "Is GST applicable on diagnostic tests for gastrointestinal disorders?",
+    "answer": "No. Diagnostic tests for gastrointestinal disorders conducted for diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0382",
+    "question": "Is GST applicable on endoscopy procedures?",
+    "answer": "No. Endoscopy procedures performed for diagnosis or treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0383",
+    "question": "Is GST applicable on colonoscopy services?",
+    "answer": "No. Colonoscopy services conducted for medical diagnosis are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0384",
+    "question": "Is GST applicable on treatment for inflammatory bowel disease?",
+    "answer": "No. Treatment for inflammatory bowel disease is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0385",
+    "question": "Is GST applicable on gastrointestinal surgery services?",
+    "answer": "No. Gastrointestinal surgery services qualify as healthcare services and are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0386",
+    "question": "Is GST applicable on treatment for chronic acidity or GERD?",
+    "answer": "No. Treatment for chronic acidity or GERD provided as medical care is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0387",
+    "question": "Is GST applicable on nutritional counselling for gastrointestinal patients?",
+    "answer": "Depends. Nutritional counselling linked to GI treatment is exempt; standalone counselling is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0388",
+    "question": "Is GST applicable on emergency abdominal surgery services?",
+    "answer": "No. Emergency abdominal surgery services are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0389",
+    "question": "Is GST applicable on post-GI surgery rehabilitation services?",
+    "answer": "No. Post-GI surgery rehabilitation services prescribed as treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0390",
+    "question": "Is GST applicable on teleconsultation services for digestive disorders?",
+    "answer": "No. Teleconsultation services for digestive disorders involving treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0391",
+    "question": "Is GST applicable on treatment for autoimmune diseases?",
+    "answer": "No. Treatment for autoimmune diseases provided by hospitals is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0392",
+    "question": "Is GST applicable on immunosuppressive therapy services?",
+    "answer": "No. Immunosuppressive therapy services provided as medical treatment are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0393",
+    "question": "Is GST applicable on long-term monitoring for autoimmune disorders?",
+    "answer": "No. Long-term monitoring for autoimmune disorders linked to treatment is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0394",
+    "question": "Is GST applicable on treatment for rheumatoid arthritis?",
+    "answer": "No. Treatment for rheumatoid arthritis is exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0395",
+    "question": "Is GST applicable on treatment for lupus?",
+    "answer": "No. Treatment for lupus provided as healthcare service is exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0396",
+    "question": "Is GST applicable on rare disease diagnostic services?",
+    "answer": "No. Rare disease diagnostic services conducted for medical purposes are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0397",
+    "question": "Is GST applicable on orphan drug administration services?",
+    "answer": "Depends. Orphan drug administration as part of treatment is exempt; supply of drugs is taxable.",
+    "gst_rate": "NIL (service) / 5% (drug)",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0398",
+    "question": "Is GST applicable on hospice care services for terminally ill patients?",
+    "answer": "No. Hospice care services for terminally ill patients are exempt from GST.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0399",
+    "question": "Is GST applicable on end-of-life medical care services?",
+    "answer": "No. End-of-life medical care services qualify as healthcare services and are exempt.",
+    "gst_rate": "NIL",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  },
+  {
+    "id": "q_0400",
+    "question": "Is GST applicable on bereavement counselling provided by hospitals?",
+    "answer": "Depends. Bereavement counselling linked to medical care is exempt; general counselling is taxable.",
+    "gst_rate": "NIL or 18%",
+    "gst_applicable": false,
+    "source": "dataset_2"
+  }
+]

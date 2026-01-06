@@ -1,0 +1,9 @@
+faiss-gpu
+torch
+numpy
+sentence-transformers
+openai
+huggingface_hub
+flask
+flask-cors
+pypdf

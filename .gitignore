@@ -1,0 +1,116 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files and indexes
+*.bin
+*.pt
+*.pth
+*.h5
+*.ckpt
+faiss_index.bin
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node.js / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.cache/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+# Keep package-lock.json for consistency, but ignore if you prefer
+
+# OS
+Thumbs.db
+.DS_Store
+
+# PDF files (if large, consider git-lfs)
+# *.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Large data files
+*.csv
+*.json
+# Uncomment if dataset is too large:
+# dataset/dataset.txt
+
+# Uploaded files
+uploads/
+new_gst_notification.pdf
+*.pdf
+
