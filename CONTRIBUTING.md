@@ -88,7 +88,7 @@ Thank you for your interest in contributing! This document provides guidelines a
 - ⚡ **Performance**: Optimize search, embeddings, or API calls
 - 🧪 **Testing**: Add unit tests or integration tests
 
-## Questions?
+## ❓ Questions
 
 Open an issue on GitHub for questions or discussions.
 
