@@ -1,3 +1,4 @@
+"""RAG bot implementation."""
 import faiss
 import torch
 import numpy as np
