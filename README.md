@@ -198,7 +198,7 @@ Before running the application, make sure to set up your environment variables. 
 
 This project is for educational/demonstration purposes.
 
-## 🤝 Contributing
+## 🤝 How to Contribute
 
 Feel free to submit issues or pull requests!
 
