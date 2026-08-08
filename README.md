@@ -194,7 +194,7 @@ Before running the application, make sure to set up your environment variables. 
 - **CORS**: Currently enabled for all origins (restrict for production)
 - **Environment Variables**: Copy `.env.example` to `.env` and add your credentials
 
-## 📝 License
+## 📝 Project License
 
 This project is for educational/demonstration purposes.
 
