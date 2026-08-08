@@ -114,3 +114,6 @@ uploads/
 new_gst_notification.pdf
 *.pdf
 
+
+# Dev Environments
+.env.development
