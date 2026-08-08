@@ -84,7 +84,7 @@ Unlike traditional chatbots or basic RAG systems, this project is designed to be
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Technology Stack
 
 ### 🧩 Backend
 - 🐍 **Python (Flask)**
