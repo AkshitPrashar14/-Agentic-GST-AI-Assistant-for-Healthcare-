@@ -202,7 +202,7 @@ This project is for educational/demonstration purposes.
 
 Feel free to submit issues or pull requests!
 
-## 📧 Support
+## 📧 Contact & Support
 
 For issues or questions, please open an issue on the repository.
 
