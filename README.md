@@ -42,10 +42,6 @@ Unlike traditional chatbots or basic RAG systems, this project is designed to be
 
 ## 🏗️ Agentic Architecture
 
-
-
-## 🏗️ Architecture
-
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                     React Frontend (Vite)                    │
@@ -149,6 +145,7 @@ agentic_ai/
 
 ## ⚙️ Configuration
 
+Before running the application, make sure to set up your environment variables. See the [Security Notes](#-security-notes) section for details on configuring the `.env` file.
 
 ## 🐛 Troubleshooting
 
@@ -183,9 +180,9 @@ agentic_ai/
 - **Solution**: Check LLM is generating formatted responses
 - **Solution**: Verify system prompts include formatting instructions
 
-## 📊 Performance
+## 📊 Performance Benchmark
 
-- **Embedding Generation**: ~50ms per query
+- **Embedding Generation (E5-base-v2)**: ~50ms per query
 - **FAISS Search**: <10ms for top-5 results
 - **LLM Response**: 2-5 seconds (depends on API)
 - **Total Response Time**: 3-6 seconds typically
